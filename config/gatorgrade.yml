@@ -1,0 +1,39 @@
+# perform checks on a file
+- writing/review.md:
+    - description: Ensure that the review.md file exists in the writing/ directory
+      check: ConfirmFileExists
+    - description: Complete all TODOs, remove the TODO markers, and rewrite comments for review.md
+      check: MatchFileFragment
+      options:
+        fragment: TODO
+        count: 0
+        exact: true
+    - description: Delete the 'Add Your Name Here' prompt in the review file
+      check: MatchFileFragment
+      options:
+        fragment: "Add Your Name Here"
+        count: 0
+        exact: true
+    - description: Preserve the list of checks for tasks designated for completion during this project
+      check: MatchFileFragment
+      options:
+        fragment: "- ["
+        count: 7
+        exact: false
+    - description: Write a minimum number of meaningful words in the reflection
+      check: CountFileWords
+      options:
+        count: 500
+        exact: false
+    - description: Confirm that the markdown file has at least a minimum number of headers
+      check: CountMarkdownTags
+      options:
+        tag: heading
+        count: 15
+        exact: false
+
+# confirm a suitable number of commit messages
+- description: Have at least a specific minimum of commits in repository
+  check: CountCommits
+  options:
+    count: 5
