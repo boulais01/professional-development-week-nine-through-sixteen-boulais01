@@ -133,39 +133,19 @@ I ought to write better documentation.
 
 ### Professional Development Précis
 
-TODO: Use the following list to provide a URL for the all of the remaining
-professional development précis articles that you wrote during the remainder of
-this course. You should start with a reference to SE7 and provide references to
-the précis articles that you wrote up to and including SE12.
+- SE7: I Wrote an Article Available at this URL: <https://mbcompsci203.netlify.app/precis/#leading-at-scale>
+- SE8: I Wrote an Article Available at this URL: <https://mbcompsci203.netlify.app/precis/#style-guides-and-rules> 
+- SE9: I Wrote an Article Available at this URL: <https://mbcompsci203.netlify.app/precis/#code-review>
+- SE10: I Wrote an Article Available at this URL: <https://mbcompsci203.netlify.app/precis/#documentation>
+- SE11: I Wrote an Article Available at this URL: <https://mbcompsci203.netlify.app/precis/#testing-overview>
+- SE12: I Wrote an Article Available at this URL: <https://mbcompsci203.netlify.app/precis/#unit-testing>
 
-- SE7: I Wrote an Article Available at this URL:
-- SE8: I Wrote an Article Available at this URL:
-- SE9: I Wrote an Article Available at this URL:
-- SE10: I Wrote an Article Available at this URL:
-- SE11: I Wrote an Article Available at this URL:
-- SE12: I Wrote an Article Available at this URL:
-
-TODO: In the above list you must provide a specific link to an article on your
-web site. Please do not (i) provide a general link to your web site, (ii) repeat
-the same link more than once, or (iii) provide links to content not on your web
-site.
-
-TODO: Use the following list to provide a URL for the issue tracker entries that you
-provided for the professional development précis articles that your partners
-wrote during this module:
-
-- SE7: I Reviewed an Article and my Review is Available at this URL:
-- SE8: I Reviewed an Article and my Review is Available at this URL:
-- SE9: I Reviewed an Article and my Review is Available at this URL:
-- SE10: I Reviewed an Article and my Review is Available at this URL:
-- SE11: I Reviewed an Article and my Review is Available at this URL:
-- SE12: I Reviewed an Article and my Review is Available at this URL:
-
-TODO: In the above list you must provide a specific link to the GitHub issue
-tracker entry on your partner's web site. Please do not (i) provide a general
-link to an entire GitHub repository or its issue tracker, (ii) repeat the same
-link to a GitHub issue more than once, or (iii) provide links to content not
-found in the GitHub issue tracker for your one of your partners.
+- SE7: I Reviewed an Article and my Review is Available at this URL: No github repo link provided by classmates
+- SE8: I Reviewed an Article and my Review is Available at this URL: <https://github.com/hayleepierce/hayleepierce.netlify.app/issues/14>
+- SE9: I Reviewed an Article and my Review is Available at this URL: <https://github.com/Jaclynpqc/JaclynPham_website/issues/9>
+- SE10: I Reviewed an Article and my Review is Available at this URL: <https://github.com/simojo/simon-jones.netlify.app/issues/12>
+- SE11: I Reviewed an Article and my Review is Available at this URL: <https://github.com/CalebKendra/calebkendra-netlify/issues/11>
+- SE12: I Reviewed an Article and my Review is Available at this URL: <https://github.com/naboni07/Nabi_Blog_post/issues/10>
 
 ### Executive Summaries
 
