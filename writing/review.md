@@ -77,7 +77,17 @@ were frequently ignored as well.
 
 #### From the perspective of professional development and the content in the "Software Engineering at Google" book, what is your greatest weakness? Why? How do you plan to improve after the completion of this course?
 
-TODO: Write a one paragraph response to this question.
+My greatest weakness is probably either documentation or testing, but since I am
+now seeing ways to improve my testing I would say documentation. I tend to
+either over or underexplain, especially since I can't really add explanations
+during my process of creating code because of the way I code. It tends to be
+something I do afterwards, if I do it at all, and though in the past when I have
+done it it has been acceptable, it's not something I do consistently. In truth,
+I'm also not sure how to improve it. The place where I've been interning, when
+I worked on the code, I found little to no explanation on any of it, and had to
+simply read through it on my own to figure it out, so there isn't much of a
+documentation culture there, though I did mark my changes with my name, the
+date, and for some of them the reason as well. 
 
 ### Lessons Learned in Professional Development
 
