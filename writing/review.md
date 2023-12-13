@@ -38,27 +38,42 @@ TODO: Please create a filled checkbox for each professional development task tha
 
 #### What is software engineering? How is software engineering is different than programming?
 
-TODO: Write a one paragraph response to this question.
+Software engineering, as has been answered in the past, is different from
+programming in size and complexity. More specifically, software engineering is
+generally for projects that last longer and are used in more places/ways than a
+program would be.
 
 #### How does knowledge of software engineering better equip you to be a leader in the Department of Computer and Information Science at Allegheny College?
 
-TODO: Write a one paragraph response to this question.
+Better knowledge of software engineering includes a better understanding of
+leadership, due to the larger scale. As such, it better equips students to be
+leaders by virtue of informing them on decision-making and group work.
 
 #### How does knowledge of software engineering better equip you to secure an internship or a full-time position in either industry or graduate school?
 
-TODO: Write a one paragraph response to this question.
+At the very least, this class offers an example of employment, though a far more
+difficult one than you would find in an internship or job due to the workload of
+a full work-week without that much time to work on it. I don't know that it would
+do much for securing those positions, though.
 
 #### What is one insight from the "Software Engineering at Google" book that you have applied to your practice of software engineering? What happened when you applied this insight?
 
-TODO: Write a one paragraph response to this question.
+The Unit Testing chapter provides some good insights for me personally that I
+was able to apply at least a little in my work during the course of this class,
+in determining how to approach testing.
 
 #### What is one practice from the "Software Engineering at Google" book that enabled you to become a more joy-filled software engineer?
 
-TODO: Write a one paragraph response to this question.
+Perhaps the style guides, though those were implemented before we even read the
+associated chapter. 
 
 #### From the perspective of professional development and the content in the "Software Engineering at Google" book, what is the greatest weakness of your software engineering team? Why? How would you advise the team to improve?
 
-TODO: Write a one paragraph response to this question.
+I would say that style guides are a weak point. People were simply disinclined
+to follow them, or ignored them, and I will admit that I don't know why. The
+implementation of the pre-commit feature, thanks to Simon, will hopefully reduce
+that issue, although the templates created previously regarding pull requests
+were frequently ignored as well. 
 
 #### From the perspective of professional development and the content in the "Software Engineering at Google" book, what is your greatest weakness? Why? How do you plan to improve after the completion of this course?
 
