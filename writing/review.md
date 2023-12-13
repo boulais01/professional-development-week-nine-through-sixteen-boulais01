@@ -149,21 +149,10 @@ I ought to write better documentation.
 
 ### Executive Summaries
 
-TODO: Use the following list to provide the URL of an article that you helped
-to publish on the Developer Development web site. Please note that it is not
-expected that you provide a reference to more than three executive summaries.
-With that said, by the end of the academic semester it is expected that every
-student in the course will make a contribution to at least three executive
-summaries about professional development. If you contributed to more than three
-summaries, please make sure that you reference them in the following list.
-
+During the last five weeks:
+- I Contributed to an Executive Summary at this URL: <https://developerdevelopment.com/blog/se12/>
 - I Contributed to an Executive Summary at this URL:
 - I Contributed to an Executive Summary at this URL:
-- I Contributed to an Executive Summary at this URL:
-
-TODO: If you did not contribute to at least three executive summaries about
-professional development, then explain why you did not do so, providing all
-relevant details.
 
 ### GitHub Commits
 
