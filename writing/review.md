@@ -158,19 +158,19 @@ During the last five weeks:
 
 #### Commits During the Final Module
 
-TODO: How many commits did you make to the Developer Development web site during the
+How many commits did you make to the Developer Development web site during the
 last module of the academic semester? Please note that commits only count if
 they appear in the listing of commits for the following GitHub repository:
 https://github.com/TeamDevDev/www.developerdevelopment.com. Please also note
 that you should only count commits that were completed during the weeks that
 pertain to this professional development assessment.
 
-TODO: For work connected to the theme of professional development, I made `X`
+For work connected to the theme of professional development, I made `8`
 commits to the Developer Development web site during this module.
 
 #### Commits Across the Entire Semester
 
-TODO: How many commits did you make to the Developer Development web site
+How many commits did you make to the Developer Development web site
 during the entire academic semester? Please note that commits only count if
 they appear in the final listing of commits for the following GitHub
 repository: https://github.com/TeamDevDev/www.developerdevelopment.com. Please
@@ -179,7 +179,7 @@ during all of the weeks during the entire academic semester, as long as they
 were related to the addition of professional development content to the web
 site.
 
-TODO: For work connected to the theme of professional development, I made `X`
+For work connected to the theme of professional development, I made `24`
 commits to the Developer Development web site across the entire semester.
 
 ## Course Assessment
