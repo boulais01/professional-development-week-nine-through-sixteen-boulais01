@@ -1,39 +1,37 @@
 # Assessment Overview
 
-TODO: Answer all of the following questions in the specified fashion. Please
+Answer all of the following questions in the specified fashion. Please
 note that, in addition to ensuring that your GitHub repository has a passing
 build, the course instructor will also confirm that you have adequately answered
 all of the questions by providing meaningful responses to each of them.
 
-TODO: Please make sure that you remove all of the `TODO` markers and prompts
+Please make sure that you remove all of the `TODO` markers and prompts
 from this document. The final version of this document should primarily contain
 the content that you wrote in response to the provided prompts.
 
-TODO: Please note that you are invited to provide responses to all of these
+Please note that you are invited to provide responses to all of these
 questions as a part of your **Professional Development** grade in this course.
 It is important to note that if you do not provide satisfactory answers to all
 of these questions you will not earn a satisfactory assessment for one or more
 parts of the assessment of your work in the professional development category.
 
-TODO: Finally, please note that you cannot "spend a token" in order to receive the
+Finally, please note that you cannot "spend a token" in order to receive the
 opportunity to revise and request a reassessment of the work in this repository.
 
 ## Professional Assessment
 
-### Add Your Name Here
-
-TODO: Make sure to include your name in the above heading.
+### Mordred Boulais
 
 ### Summary Checklist
 
 TODO: Please create a filled checkbox for each professional development task that you completed:
 
-- [] Installed and correctly configured Quarto on your laptop
-- [] Created and maintained a Quarto-based web site that is deployed to Netlify
-- [] Across the entire semester, co-authored a total of at least three executive summaries about professional development
-- [] Created a GitHub issue of your partner's web site for all professional development précis articles
-- [] Contributed to at least three executive summaries about professional development on the course web site
-- [] Regularly participated in the class discussions about professional development
+- [X] Installed and correctly configured Quarto on your laptop
+- [X] Created and maintained a Quarto-based web site that is deployed to Netlify
+- [X] Across the entire semester, co-authored a total of at least three executive summaries about professional development
+- [X] Created a GitHub issue of your partner's web site for all professional development précis articles
+- [X] Contributed to at least three executive summaries about professional development on the course web site
+- [X] Regularly participated in the class discussions about professional development
 - [] Completed all of the documentation and reflection tasks in this document
 
 ### Professional Development Reflection
