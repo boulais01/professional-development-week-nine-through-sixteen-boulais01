@@ -105,28 +105,31 @@ TODO: Make sure that you delete all of the prompts in the following sections.
 
 #### Team Work
 
-TODO: Write one sentence about this skill.
-TODO: Provide at least one reference to support your assertion.
+I learned nothing new, but the refreshers are always good.
+- [Precis](https://mbcompsci203.netlify.app/precis/#how-to-work-well-in-teams)
 
 #### Project Management
 
-TODO: Write one sentence about this skill.
-TODO: Provide at least one reference to support your assertion.
+The note about scaling and knowing what to fail/delegate was good information
+to me.
+- [Precis](https://mbcompsci203.netlify.app/precis/#leading-at-scale)
+- [Software Engineering](https://abseil.io/resources/swe-book/html/ch06.html)
 
 #### Style Guides
 
-TODO: Write one sentence about this skill.
-TODO: Provide at least one reference to support your assertion.
+I learned how to create style guides, with the emphasis on the why.
+- [Software Engineering](https://abseil.io/resources/swe-book/html/ch08.html)
 
 #### Effective Communication
 
-TODO: Write one sentence about this skill.
-TODO: Provide at least one reference to support your assertion.
+While I generally do a lot of communicating, I could stand to clarify my own
+processes more than I do.
+- [Software Engineering](https://abseil.io/resources/swe-book/html/ch03.html)
 
 #### Knowledge Sharing
 
-TODO: Write one sentence about this skill.
-TODO: Provide at least one reference to support your assertion.
+I ought to write better documentation.
+- [Software Engineering](https://abseil.io/resources/swe-book/html/ch03.html)
 
 ### Professional Development Précis
 
