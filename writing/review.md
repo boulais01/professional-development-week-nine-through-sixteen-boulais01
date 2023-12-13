@@ -24,7 +24,7 @@ opportunity to revise and request a reassessment of the work in this repository.
 
 ### Summary Checklist
 
-TODO: Please create a filled checkbox for each professional development task that you completed:
+Please create a filled checkbox for each professional development task that you completed:
 
 - [X] Installed and correctly configured Quarto on your laptop
 - [X] Created and maintained a Quarto-based web site that is deployed to Netlify
@@ -32,7 +32,7 @@ TODO: Please create a filled checkbox for each professional development task tha
 - [X] Created a GitHub issue of your partner's web site for all professional development précis articles
 - [X] Contributed to at least three executive summaries about professional development on the course web site
 - [X] Regularly participated in the class discussions about professional development
-- [] Completed all of the documentation and reflection tasks in this document
+- [X] Completed all of the documentation and reflection tasks in this document
 
 ### Professional Development Reflection
 
@@ -197,7 +197,7 @@ Please create a filled checkbox for the level that best describes your perspecti
 - [] 2: Disagree
 - [] 3: Neutral
 - [] 4: Agree
-- [] 5: Strongly Agree
+- [X] 5: Strongly Agree
 
 ### On a scale from 1 to 5, please respond to this assertion from your perspective: "I had plenty of support from my professor, my classmates, the student technical leaders, and the course software as I worked during this semester."
 
@@ -206,7 +206,7 @@ Please create a filled checkbox for the level that best describes your perspecti
 - [] 1: Strongly Disagree
 - [] 2: Disagree
 - [] 3: Neutral
-- [] 4: Agree
+- [X] 4: Agree
 - [] 5: Strongly Agree
 
 ### On a scale from 1 to 5, please respond to this assertion from your perspective: "I am closer to mastering the technical and scientific concepts of the course now than I was at the start of this semester."
