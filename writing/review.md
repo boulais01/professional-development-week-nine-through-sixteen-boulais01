@@ -5,10 +5,6 @@ note that, in addition to ensuring that your GitHub repository has a passing
 build, the course instructor will also confirm that you have adequately answered
 all of the questions by providing meaningful responses to each of them.
 
-Please make sure that you remove all of the `TODO` markers and prompts
-from this document. The final version of this document should primarily contain
-the content that you wrote in response to the provided prompts.
-
 Please note that you are invited to provide responses to all of these
 questions as a part of your **Professional Development** grade in this course.
 It is important to note that if you do not provide satisfactory answers to all
@@ -90,18 +86,6 @@ documentation culture there, though I did mark my changes with my name, the
 date, and for some of them the reason as well. 
 
 ### Lessons Learned in Professional Development
-
-TODO: Write one sentence to summarize what you have learned about each skill in
-the area of professional development for software engineering. Each sentence
-that you write should be accompanied by at least one reference that supports
-your summarization. While you are encouraged to cite content from the "Software
-Engineering at Google" book, it is acceptable for you to cite any source
-available online. Please make sure that every reference that you provide is to a
-web site link that the instructor can reference. Ultimately, you can think of
-the sentence that you write as advice that you would give to a student at the
-start of the next edition of the Software Engineering course.
-
-TODO: Make sure that you delete all of the prompts in the following sections.
 
 #### Team Work
 
